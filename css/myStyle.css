@@ -1,0 +1,246 @@
+.head {
+    margin-top: 30px;
+}
+
+li{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 15px;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    
+   
+}
+ul{
+    
+    text-align: center;
+    display: block;
+}
+
+.sample {
+    height: 300px;
+    background-color: white;
+    border: 20px solid whitesmoke;
+    text-align: center;
+    padding: 30px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0.4, 0, 0.3);
+    padding-top: 10px;
+}
+
+.sample1 {
+    padding-top: 40px;
+}
+
+.sample7 {
+    padding-top: 100px;
+    border: 3px solid white;
+    color: white;
+}
+
+.sample8 {
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+}
+
+
+
+.back11 {
+    background-color: rgb(85, 188, 231);
+}
+
+.round-p {
+    position: relative;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-top: -50px;
+    padding-top: 10px;
+}
+
+.round {
+    width: 60px;
+    height: 60px;
+    display:block;
+    border-radius: 100%;
+    background: rgb(85, 188, 231);
+    display: inline-block;
+    border-color: black;
+	text-align:center
+}
+
+.black {
+    background-color: black;
+    height: 150px;
+    padding-top: 50px;
+}
+
+.p {
+    color: whitesmoke;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.in {
+    color: white;
+    font: normal;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.blog_info {
+    text-align: center;
+}
+
+.back2 {
+    background-color: white;
+}
+
+.back5 {
+    background-color: rgb(0, 195, 255);
+}
+
+.font {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 30%;
+}
+
+.back {
+    background-image: url('../images/banner.jpg');
+    background-size: cover;
+    height: 800px;
+}
+
+.back3 {
+    margin: 20px 0px 0px 0px;
+}
+
+.back4 {
+    margin: 20px 0px 0px 0px;
+}
+
+.imageText {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.middle_of_black {
+    text-align: center;
+    color: #33C7FF;
+}
+
+.icon_font {
+    font-size: 10px;
+    font: normal;
+}
+
+.ash {
+    background-color: #202020;
+    height: 150px;
+    padding-top: 50px;
+}
+
+.marg {
+    margin-top: 200px;
+}
+
+.back6 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.customDiv {
+    min-height: 300px;
+    background-color: white;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: large;
+    padding-top: 80px;
+    box-shadow: 40;
+    -webkit-box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+}
+
+.customDiv1 {
+    min-height: 300px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: small;
+    padding-top: 80px;
+    box-shadow: 40;
+    -webkit-box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    border-style: solid;
+    border-color: white;
+    color: black;
+}
+
+.customDiv2 {
+    min-height: 0px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: medium;
+    padding-top: 80px;
+    box-shadow: 40;
+    -webkit-box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 35px -15px rgba(0, 0, 0, 0.75);
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.div1 {
+    padding-top: 20px;
+    border-style: solid;
+    border-color: white;
+    color: black;
+    max-width: 600px;
+    margin-top: 10px;
+}
+
+.div2 {
+    margin-top: 10px;
+}
+
+.back10 {
+    background-color: rgb(0, 162, 255);
+}
+
+.div3 {
+    padding-top: 20px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    margin-top: 10px;
+    max-width: 600px;
+}
